@@ -1,5 +1,7 @@
-<h1 align="center">Hola 👋, soy Michel Sánchez Montells</h1>
-<h3 align="center">Ruby on Rails Developer con pasión por el testing, la automatización y el delivery continuo</h3>
+> 🇪🇸 [Read this page in Spanish](README.es.md)
+
+<h1 align="center">Hi 👋, I'm Michel Sánchez Montells</h1>
+<h3 align="center">Ruby on Rails Developer passionate about testing, automation, and continuous delivery</h3>
 
 <p align="center">
   <a href="https://github.com/montells" target="_blank">
@@ -15,66 +17,74 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About me
 
-Soy un desarrollador web con más de **15 años de experiencia** construyendo aplicaciones web.  
-En los últimos años me he especializado en **Ruby on Rails**, trabajando como fullstack developer con **Angular** para el frontend.  
-Apuesto siempre por buenas prácticas: **TDD, CI/CD, Docker**, y automatización de procesos.
+I'm a web developer with **15+ years of experience** building web applications.  
+Over the last years, I've specialized in **Ruby on Rails**, working on fullstack projects with **Angular** on the frontend.  
+I’m passionate about clean code, **TDD**, automation, and **CI/CD** pipelines.
 
-🧳 Originario de Cuba, actualmente viviendo en Alemania 🇩🇪.  
-📚 Siempre aprendiendo: ahora explorando Kubernetes, ViewComponents y AnyCable.
+🇨🇺 Originally from Cuba, now living in Germany 🇩🇪.  
+📚 Lifelong learner, currently diving into Kubernetes, ViewComponents, and AnyCable.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tech Stack
 
-- **Lenguajes:** `Ruby`, `JavaScript`, `Java`, `C#`
+- **Languages:** `Ruby`, `JavaScript`, `Java`, `C#`
 - **Frameworks:** `Rails`, `Angular`, `Jest`, `RSpec`, `Cucumber`
-- **Bases de datos:** `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`
-- **CI/CD:** `GitHub Actions`, `Bitbucket Pipelines`, `Gitlab CI`, `Jenkins`
-- **Herramientas:** `Docker`, `Sidekiq`, `ActiveStorage`, `Kettle`, `Genexus`, `Jira`, `Git`
+- **Databases:** `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`
+- **CI/CD Tools:** `GitHub Actions`, `Bitbucket Pipelines`, `Gitlab CI`, `Jenkins`
+- **Dev Tools:** `Docker`, `Sidekiq`, `ActiveStorage`, `Kettle`, `Genexus`, `Jira`, `Git`
 - **Cloud:** `Heroku`, `DigitalOcean`, `AWS`
 
 ---
 
-### 💼 Experiencia destacada
+### 💼 Work Experience
 
-#### 🏢 Aleph Engineering (2015 - Actualidad)
-- Líder de backend en proyectos con Ruby on Rails y Angular.
-- Automatización de procesos internos (Wassermeloni).
-- DevOps para infraestructura en Digital Ocean con Docker.
+#### 🏢 Aleph Engineering (2015 - Present)
+- Backend lead in fullstack projects (Rails + Angular)
+- Automation of internal business workflows (Wassermeloni)
+- DevOps using Docker and Digital Ocean
 
 #### 🏢 DATYS (2009 - 2015)
-- Desarrollador Genexus & Scrum Master en plataformas de encuestas (Encuestas, Beesor).
-- Gestión de CI/CD y despliegues automatizados.
+- Genexus Developer & Scrum Master on survey platforms
+- Managed CI/CD for multiple teams and apps
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Highlight Projects
 
-- 🧃 **[Wassermeloni](#)**: Plataforma completa para automatización de procesos de empresa (RoR, Redis, Sidekiq, Angular, Searchkick).
-- 📊 **Encuestas**: Plataforma de encuestas internas y públicas usando Genexus.
-- 🔐 **SKILLZ.ENGINEER**: Red social con evaluaciones de skills entre usuarios.
-
----
-
-### 📚 Educación
-
-- 🎓 **Ingeniero en Ciencias Informáticas** – UCI, Cuba (2003–2008)
-- 🎓 Cursos en línea: [Coursera Certificate](https://coursera.org/verify/professional-cert/4XNFFPNAYYUY)
+- 🧃 **[Wassermeloni](#)**: Internal platform to automate business processes (RoR, Redis, Sidekiq, Angular, Searchkick).
+- 📊 **Encuestas**: Survey platform for public and private institutions (Genexus).
+- 🔐 **SKILLZ.ENGINEER**: A social network focused on rating and managing skillsets among peers.
 
 ---
 
-### ✍️ Artículos técnicos
+### 📚 Education
+
+- 🎓 **Bachelor in Computer Science** – UCI, Cuba (2003–2008)
+- 📜 Online certificate: [Coursera Professional Certificate](https://coursera.org/verify/professional-cert/4XNFFPNAYYUY)
+
+---
+
+### ✍️ Technical Articles
 
 - [Postal address, reusability and concerns in Rails](https://dev.to/montells/postal-address-reusability-polymorphism-and-concerns-in-ruby-on-rails-3eim)
 - [Docker ARGs](https://dev.to/montells/docker-args-1ael)
-- [Keyword args en Ruby](https://dev.to/montells/exploring-the-power-of-keyword-arguments-in-ruby-1gk8)
-- [Bitbucket Pipelines parametrizado](https://dev.to/montells/parametrize-your-custom-bitbucket-pipeline-with-variables-hdp)
+- [Keyword args in Ruby](https://dev.to/montells/exploring-the-power-of-keyword-arguments-in-ruby-1gk8)
+- [Bitbucket Pipelines with variables](https://dev.to/montells/parametrize-your-custom-bitbucket-pipeline-with-variables-hdp)
 
 ---
 
-### 🌐 Contacto
+### 🌍 Languages
+
+- 🇪🇸 Spanish: Native  
+- 🇬🇧 English: Fluent  
+- 🇩🇪 German: A1 (currently learning)
+
+---
+
+### 📬 Contact
 
 - 📧 montells@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/michel-s%C3%A1nchez-montells-b6596438/)  
@@ -84,4 +94,4 @@ Apuesto siempre por buenas prácticas: **TDD, CI/CD, Docker**, y automatización
 
 ---
 
-<p align="center">Gracias por visitar mi perfil ✌️</p>
+<p align="center">Thanks for stopping by ✌️</p>
