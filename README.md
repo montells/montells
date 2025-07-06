@@ -26,6 +26,9 @@ I’m passionate about clean code, **TDD**, automation, and **CI/CD** pipelines.
 🇨🇺 Originally from Cuba, now living in Germany 🇩🇪.  
 📚 Lifelong learner, currently diving into Kubernetes, ViewComponents, and AnyCable.
 
+I bring a strong sense of discipline, loyalty, responsibility, and commitment to every team I join. I strive to contribute with critical thinking while also respecting and supporting the final decisions of project leaders. I believe in long‑term collaboration and being fully accountable for both the code I write and the goals we aim to achieve as a team.
+
+
 ---
 
 ### 🛠️ Tech Stack

@@ -24,6 +24,9 @@ Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de
 🇨🇺 Originario de Cuba, actualmente viviendo en Alemania 🇩🇪.  
 📚 Aprendiz constante, actualmente explorando Kubernetes, ViewComponents y AnyCable.
 
+Aporto una actitud basada en la disciplina, la lealtad, la responsabilidad y el compromiso con cada equipo del que formo parte. Me esfuerzo por contribuir con pensamiento crítico, pero también respeto y respaldo las decisiones finales de los responsables del proyecto. Creo en la colaboración a largo plazo y en asumir con seriedad tanto el código que escribo como los objetivos comunes del equipo.
+
+
 ---
 
 ### 🛠️ Tecnologías y herramientas
