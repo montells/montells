@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Michel Sánchez Montells</h1>
-<h3 align="center">Ruby on Rails Developer con pasión por el testing, la automatización y el delivery continuo</h3>
+<h3 align="center">Desarrollador Ruby on Rails con pasión por el testing, la automatización y el delivery continuo</h3>
 
 <p align="center">
   <a href="https://github.com/montells" target="_blank">
@@ -18,11 +18,11 @@
 ### 🧠 Sobre mí
 
 Soy un desarrollador web con más de **15 años de experiencia** construyendo aplicaciones web.  
-En los últimos años me he especializado en **Ruby on Rails**, trabajando como fullstack developer con **Angular** para el frontend.  
-Apuesto siempre por buenas prácticas: **TDD, CI/CD, Docker**, y automatización de procesos.
+En los últimos años me he especializado en **Ruby on Rails**, trabajando como desarrollador fullstack con **Angular** en el frontend.  
+Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de **CI/CD**.
 
-🧳 Originario de Cuba, actualmente viviendo en Alemania 🇩🇪.  
-📚 Siempre aprendiendo: ahora explorando Kubernetes, ViewComponents y AnyCable.
+🇨🇺 Originario de Cuba, actualmente viviendo en Alemania 🇩🇪.  
+📚 Aprendiz constante, actualmente explorando Kubernetes, ViewComponents y AnyCable.
 
 ---
 
@@ -37,31 +37,36 @@ Apuesto siempre por buenas prácticas: **TDD, CI/CD, Docker**, y automatización
 
 ---
 
-### 💼 Experiencia destacada
+### 💼 Experiencia laboral
 
 #### 🏢 Aleph Engineering (2015 - Actualidad)
-- Líder de backend en proyectos con Ruby on Rails y Angular.
-- Automatización de procesos internos (Wassermeloni).
-- DevOps para infraestructura en Digital Ocean con Docker.
+- Líder backend en proyectos fullstack (Rails + Angular)
+- DevOps con Docker y despliegue en Digital Ocean
+
+#### 🌊 Plataforma de Gestión para Escuela de Natación — Desarrollador Líder (2021 ‑ Actualidad)
+- Diseñé y entregué una plataforma integral que automatiza la **planificación de cursos, gestión de capacidades, altas y bajas de clientes, cálculo de salarios de entrenadores y notificaciones multicanal (email y SMS)**.
+- Integré el nuevo sistema con aplicaciones legadas, eliminando la duplicación manual de datos y reduciendo errores operativos.
+- **Impacto en el negocio:** permitió a la empresa **duplicar la cantidad de cursos activos**, atender un creciente número de clientes y reducir el **trabajo administrativo manual en más de un 40 %**.
+- **Stack:** `Ruby on Rails`, `Angular`, `PostgreSQL`, `Redis`, `Sidekiq`, `SendGrid`, `Pentaho Kettle`, `Docker Compose`, `Linux`, `Nginx`, cron jobs.
 
 #### 🏢 DATYS (2009 - 2015)
-- Desarrollador Genexus & Scrum Master en plataformas de encuestas (Encuestas, Beesor).
-- Gestión de CI/CD y despliegues automatizados.
+- Desarrollador Genexus y Scrum Master en plataformas de encuestas
+- Gestión de CI/CD para varios equipos y aplicaciones
 
 ---
 
 ### 🚀 Proyectos destacados
 
-- 🧃 **[Wassermeloni](#)**: Plataforma completa para automatización de procesos de empresa (RoR, Redis, Sidekiq, Angular, Searchkick).
-- 📊 **Encuestas**: Plataforma de encuestas internas y públicas usando Genexus.
-- 🔐 **SKILLZ.ENGINEER**: Red social con evaluaciones de skills entre usuarios.
+- 🧃 **[Wassermeloni](#)**: Plataforma interna para automatizar procesos de negocio (RoR, Redis, Sidekiq, Angular, Searchkick).
+- 📊 **Encuestas**: Plataforma para encuestas públicas y privadas (Genexus).
+- 🔐 **SKILLZ.ENGINEER**: Red social centrada en la gestión de habilidades entre contactos.
 
 ---
 
 ### 📚 Educación
 
 - 🎓 **Ingeniero en Ciencias Informáticas** – UCI, Cuba (2003–2008)
-- 🎓 Cursos en línea: [Coursera Certificate](https://coursera.org/verify/professional-cert/4XNFFPNAYYUY)
+- 📜 Certificado online: [Coursera Professional Certificate](https://coursera.org/verify/professional-cert/4XNFFPNAYYUY)
 
 ---
 
@@ -74,7 +79,15 @@ Apuesto siempre por buenas prácticas: **TDD, CI/CD, Docker**, y automatización
 
 ---
 
-### 🌐 Contacto
+### 🌍 Idiomas
+
+- 🇪🇸 Español: Nativo  
+- 🇬🇧 Inglés: Fluido  
+- 🇩🇪 Alemán: A1 (aprendiendo)
+
+---
+
+### 📬 Contacto
 
 - 📧 montells@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/michel-s%C3%A1nchez-montells-b6596438/)  

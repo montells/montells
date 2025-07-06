@@ -43,8 +43,13 @@ I’m passionate about clean code, **TDD**, automation, and **CI/CD** pipelines.
 
 #### 🏢 Aleph Engineering (2015 - Present)
 - Backend lead in fullstack projects (Rails + Angular)
-- Automation of internal business workflows (Wassermeloni)
 - DevOps using Docker and Digital Ocean
+
+#### 🌊 Swimming School Management Platform — Lead Developer (2021 ‑ Present)
+- Designed and delivered an end‑to‑end platform that automates **course planning, capacity management, client onboarding/off‑boarding, salary calculation for trainers, and multi‑channel notifications (email & SMS)**.
+- Integrated the new system with several legacy applications, eliminating manual data duplication and reducing operational errors.
+- **Business impact:** enabled the company to **double the number of active courses**, support a rapidly growing customer base, and reduce **manual administrative work by over 40 %**.
+- **Stack:** `Ruby on Rails`, `Angular`, `PostgreSQL`, `Redis`, `Sidekiq`, `SendGrid`, `Pentaho Kettle`, `Docker Compose`, `Linux`, `Nginx`, cron jobs.
 
 #### 🏢 DATYS (2009 - 2015)
 - Genexus Developer & Scrum Master on survey platforms
