@@ -46,7 +46,7 @@ Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de
 #### 🌊 Plataforma de Gestión para Escuela de Natación — Desarrollador Líder (2021 ‑ Actualidad)
 - Diseñé y entregué una plataforma integral que automatiza la **planificación de cursos, gestión de capacidades, altas y bajas de clientes, cálculo de salarios de entrenadores y notificaciones multicanal (email y SMS)**.
 - Integré el nuevo sistema con aplicaciones legadas bien mediante API o ETL, eliminando la duplicación manual de datos y reduciendo errores operativos.
-- **Impacto en el negocio:** permitió a la empresa **duplicar la cantidad de cursos activos**, atender un creciente número de clientes y reducir el **trabajo administrativo manual en más de un 40 %**.
+- **Impacto en el negocio:** la plataforma fue diseñada e implementada intencionadamente con un enfoque en la escalabilidad del negocio — facilitando la atención a un mayor número de clientes, reduciendo la carga administrativa manual y permitiendo que la empresa eventualmente duplicara la cantidad de cursos activos.
 - **Stack:** `Ruby on Rails`, `Angular`, `PostgreSQL`, `Redis`, `Sidekiq`, `SendGrid`, `Pentaho Kettle`, `Docker Compose`, `Linux`, `Nginx`, cron jobs.
 
 #### 🏢 DATYS (2009 - 2015)

@@ -48,7 +48,7 @@ I’m passionate about clean code, **TDD**, automation, and **CI/CD** pipelines.
 #### 🌊 Swimming School Management Platform — Lead Developer (2021 ‑ Present)
 - Designed and delivered an end‑to‑end platform that automates **course planning, capacity management, client onboarding/off‑boarding, salary calculation for trainers, and multi‑channel notifications (email & SMS)**.
 - Integrated the new system with several legacy applications via API or ETL, eliminating manual data duplication and reducing operational errors.
-- **Business impact:** enabled the company to **double the number of active courses**, support a rapidly growing customer base, and reduce **manual administrative work by over 40 %**.
+- **Business impact:** the platform was thoughtfully designed and implemented with the clear intention of enabling business scalability — supporting a growing customer base, reducing manual administrative overhead, and allowing the company to eventually double the number of active courses.
 - **Stack:** `Ruby on Rails`, `Angular`, `PostgreSQL`, `Redis`, `Sidekiq`, `SendGrid`, `Pentaho Kettle`, `Docker Compose`, `Linux`, `Nginx`, cron jobs.
 
 #### 🏢 DATYS (2009 - 2015)
