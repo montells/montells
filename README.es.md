@@ -28,12 +28,12 @@ Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de
 
 ### 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** `Ruby`, `JavaScript`, `Java`, `C#`
+- **Languages:** `Ruby`, `JavaScript`, `TypeScript`, `Java`, `C#`
 - **Frameworks:** `Rails`, `Angular`, `Jest`, `RSpec`, `Cucumber`
 - **Bases de datos:** `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`
 - **CI/CD:** `GitHub Actions`, `Bitbucket Pipelines`, `Gitlab CI`, `Jenkins`
 - **Herramientas:** `Docker`, `Sidekiq`, `ActiveStorage`, `Kettle`, `Genexus`, `Jira`, `Git`
-- **Cloud:** `Heroku`, `DigitalOcean`, `AWS`
+- **Cloud:** `Heroku`, `DigitalOcean`, `AWS`, `Hetzner`
 
 ---
 
@@ -41,11 +41,11 @@ Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de
 
 #### 🏢 Aleph Engineering (2015 - Actualidad)
 - Líder backend en proyectos fullstack (Rails + Angular)
-- DevOps con Docker y despliegue en Digital Ocean
+- DevOps using Docker, Digital Ocean, Hetzner, Heroku, Gitlab CI, Bitbucket Pipelines
 
 #### 🌊 Plataforma de Gestión para Escuela de Natación — Desarrollador Líder (2021 ‑ Actualidad)
 - Diseñé y entregué una plataforma integral que automatiza la **planificación de cursos, gestión de capacidades, altas y bajas de clientes, cálculo de salarios de entrenadores y notificaciones multicanal (email y SMS)**.
-- Integré el nuevo sistema con aplicaciones legadas, eliminando la duplicación manual de datos y reduciendo errores operativos.
+- Integré el nuevo sistema con aplicaciones legadas bien mediante API o ETL, eliminando la duplicación manual de datos y reduciendo errores operativos.
 - **Impacto en el negocio:** permitió a la empresa **duplicar la cantidad de cursos activos**, atender un creciente número de clientes y reducir el **trabajo administrativo manual en más de un 40 %**.
 - **Stack:** `Ruby on Rails`, `Angular`, `PostgreSQL`, `Redis`, `Sidekiq`, `SendGrid`, `Pentaho Kettle`, `Docker Compose`, `Linux`, `Nginx`, cron jobs.
 
