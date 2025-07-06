@@ -28,6 +28,7 @@ I’m passionate about clean code, **TDD**, automation, and **CI/CD** pipelines.
 
 I bring a strong sense of discipline, loyalty, responsibility, and commitment to every team I join. I strive to contribute with critical thinking while also respecting and supporting the final decisions of project leaders. I believe in long‑term collaboration and being fully accountable for both the code I write and the goals we aim to achieve as a team.
 
+I also make critical and intentional use of AI tools in my daily workflow. I believe AI adds real value when used to improve code quality, reduce the learning curve when tackling new challenges, and speed up experimentation — without losing ownership of the decisions I make as a developer.
 
 ---
 

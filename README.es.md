@@ -26,6 +26,7 @@ Me apasiona el código limpio, el **TDD**, la automatización y los pipelines de
 
 Aporto una actitud basada en la disciplina, la lealtad, la responsabilidad y el compromiso con cada equipo del que formo parte. Me esfuerzo por contribuir con pensamiento crítico, pero también respeto y respaldo las decisiones finales de los responsables del proyecto. Creo en la colaboración a largo plazo y en asumir con seriedad tanto el código que escribo como los objetivos comunes del equipo.
 
+También hago un uso crítico e intencional de herramientas de IA en mi trabajo diario. Considero que la IA aporta un valor real cuando se utiliza para mejorar la calidad del código, reducir la curva de aprendizaje ante nuevos retos y acelerar la experimentación, sin perder la responsabilidad sobre las decisiones que tomo como desarrollador.
 
 ---
 
