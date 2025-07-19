@@ -82,6 +82,7 @@ I also make critical and intentional use of AI tools in my daily workflow. I bel
 - [Docker ARGs](https://dev.to/montells/docker-args-1ael)
 - [Keyword args in Ruby](https://dev.to/montells/exploring-the-power-of-keyword-arguments-in-ruby-1gk8)
 - [Bitbucket Pipelines with variables](https://dev.to/montells/parametrize-your-custom-bitbucket-pipeline-with-variables-hdp)
+- [ActiveRecord Merging Scopes](https://dev.to/montells/writing-reusable-and-performant-scopes-in-rails-with-merge-54ka)
 
 ---
 
