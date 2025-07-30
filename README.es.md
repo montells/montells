@@ -76,6 +76,8 @@ También hago un uso crítico e intencional de herramientas de IA en mi trabajo 
 
 ### ✍️ Artículos técnicos
 
+
+- [Automatic Postgres update with bitbucket pipeline](https://dev.to/montells/upgrade-postgres-when-using-docker-compose-4di4)
 - [Postal address, reusability and concerns in Rails](https://dev.to/montells/postal-address-reusability-polymorphism-and-concerns-in-ruby-on-rails-3eim)
 - [Docker ARGs](https://dev.to/montells/docker-args-1ael)
 - [Keyword args en Ruby](https://dev.to/montells/exploring-the-power-of-keyword-arguments-in-ruby-1gk8)
